@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19G73" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="TheLeague" representedClassName="TheLeague" syncable="YES" codeGenerationType="class">
+        <attribute name="leagueId" optional="YES" attributeType="String"/>
+        <attribute name="leagueName" optional="YES" attributeType="String"/>
+        <attribute name="strBadge" optional="YES" attributeType="String"/>
+        <attribute name="strCountry" optional="YES" attributeType="String"/>
+        <attribute name="strSport" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="TheLeague" positionX="-63" positionY="-18" width="128" height="118"/>
+    </elements>
+</model>
